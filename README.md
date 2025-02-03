@@ -119,4 +119,4 @@ We welcome contributions to enhance the **Personal Budget Manager**. To contribu
 
 ## Dev
 
-Chernet
+Emmanuel
